@@ -6,9 +6,19 @@ I'm a Backend Developer with experience in PHP and Go. I have a passion for secu
 * 💻 PHP | Go
 * 🐧 Linux Server Management
 * 🔒 Security
+* 🐳 Docker | Kubernetes
+* 🔄 CI/CD
+* 🌐 DNS Management
 
 ## Current Work
 * Working on various backend projects using PHP and Go.
+* Implementing Docker and Kubernetes in project deployments.
+* Ensuring CI/CD practices for efficient development workflows.
+
+## Notable Achievements
+* Successfully migrated a large application from Laravel to Go.
+* Implemented a robust security system for a high-traffic application.
+* Managed a Linux server network for a large corporation
 
 ## Past Work
 * System Administrator

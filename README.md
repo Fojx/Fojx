@@ -16,7 +16,6 @@ I'm a Backend Developer with experience in PHP and Go. I have a passion for secu
 * Ensuring CI/CD practices for efficient development workflows.
 
 ## Notable Achievements
-* Successfully migrated a large application from Laravel to Go.
 * Implemented a robust security system for a high-traffic application.
 * Managed a Linux server network for a large corporation
 

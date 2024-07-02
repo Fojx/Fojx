@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Dimitris Chatzopoulos 👋
 
-<!--
-**Fojx/Fojx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Developer with experience in PHP and Go. I have a passion for security and managing Linux servers. In the past, I've also worked as a System Administrator.
 
-Here are some ideas to get you started:
+## Skills and Experience
+* 💻 PHP | Go
+* 🐧 Linux Server Management
+* 🔒 Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+* Working on various backend projects using PHP and Go.
+
+## Past Work
+* System Administrator
+
+## Contact Me
+* [LinkedIn](https://www.linkedin.com/in/dimitris-chatzopoulos-826a8b242/)
+* [Email](mailto:fojx@protonmail.com)
